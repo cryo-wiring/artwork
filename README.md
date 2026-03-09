@@ -1,6 +1,12 @@
-# cryowire Artwork
+<a href="https://github.com/cryowire">
+  <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" width="400" />
+</a>
+
+# cryowire/artwork
 
 Official logos and brand assets for [cryowire](https://github.com/cryowire).
+
+See **[cryowire.github.io](https://cryowire.github.io/)** for the full project overview.
 
 ## Logo
 
