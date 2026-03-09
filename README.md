@@ -2,11 +2,9 @@
   <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" width="600" />
 </a></p>
 
-# cryowire/artwork
-
-Official logos and brand assets for [cryowire](https://github.com/cryowire).
-
-See **[cryowire.github.io](https://cryowire.github.io/)** for the full project overview.
+<h1 align="center">cryowire/artwork</h1>
+<p align="center">Official logos and brand assets for <a href="https://github.com/cryowire">cryowire</a>.</p>
+<p align="center"><a href="https://cryowire.github.io/"><b>cryowire.github.io</b></a></p>
 
 ## Logo
 
